@@ -19,6 +19,8 @@ The documentation is available at `https://cmmpy.readthedocs.io <https://cmmpy.r
 Purpose
 =====================
 
+.. image:: cmmpy.png 
+
 This is a python implementation of the Comparison Model Method (CMM),
 a direct method to solve inverse problems in hydrogeology, and in
 particular to compute the hydraulic conductivity *T* of a confined
