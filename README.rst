@@ -12,7 +12,7 @@ for the identification of hydraulic transmissivities" by A.Comunian
 and M.Giudici, `Computers & Geosciences`, DOI:
 `https://doi.org/10.1016/j.cageo.2021.104705
 <https://doi.org/10.1016/j.cageo.2021.104705>`_.
-The documentation is available at `https://cmmpy.readthedocs.io <https://cmmpy.readthedocs.io/en/latest/>`_.
+The **documentation** is available at `https://cmmpy.readthedocs.io <https://cmmpy.readthedocs.io/en/latest/>`_.
 
 |
 
